@@ -13,18 +13,10 @@ Sorts that are implemented:
 
   ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/89273037/176277738-ad0c9479-3560-4d1a-8cbb-d18aa3bb3194.gif)
 
-- Cocktail Sort
+- Selection Sort
 
-  ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/89273037/176278395-65ecbf46-2126-4fa6-920a-c6312b1e1909.gif)
 
-- Counting Sort
-
-  ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/89273037/176277959-4fc82b5a-4923-4659-85ce-f4dc22028451.gif)
-  
-# Vizualization of search
-- Binary Search
-
-  ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/89273037/176278729-7e745a44-7198-426a-baae-640be46a62b1.gif)
- 
+- Bubble Sort
+  - 
 # Soon
-- Soften the sorting sound
+- Will Improve UI Soon
