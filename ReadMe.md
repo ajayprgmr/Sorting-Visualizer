@@ -17,6 +17,6 @@ Sorts that are implemented:
 
 
 - Bubble Sort
-  - 
+  ![Bubble Sort](https://github.com/ajayprgmr/Sorting-Visualizer/assets/86186444/88fa673e-f596-45cc-91db-7ea332d1e69f)
 # Soon
 - Will Improve UI Soon
