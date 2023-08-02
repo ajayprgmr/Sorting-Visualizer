@@ -1,12 +1,3 @@
-https://7645re.github.io/SortingVisualization/
-# Features:
-- Binary search
-- Quick sort, Insertion sort, Counting Sort, Cocktail sort, Merge sort
-- Changing the number of number blocks
-- Changing the sound frequency when sorting
-- Changing the delay between iterations
-- Changing the maximum number when generating blocks of numbers
-- Ability to enable full coverage of the range of numbers
 
 # Visualization of sorting algorithms
 Sorts that are implemented:
