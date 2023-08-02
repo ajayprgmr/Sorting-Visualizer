@@ -13,18 +13,11 @@ Sorts that are implemented:
 
   ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/89273037/176277738-ad0c9479-3560-4d1a-8cbb-d18aa3bb3194.gif)
 
-- Cocktail Sort
+- Selection Sort
+  ![SelectionSort](https://github.com/ajayprgmr/Sorting-Visualizer/assets/86186444/88fa673e-f596-45cc-91db-7ea332d1e69f)
 
-  ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/89273037/176278395-65ecbf46-2126-4fa6-920a-c6312b1e1909.gif)
+- Bubble Sort
+  ![Bubble Sort](https://github.com/ajayprgmr/Sorting-Visualizer/assets/86186444/d24d3316-07aa-4240-95cf-85cbd53728e7)
 
-- Counting Sort
-
-  ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/89273037/176277959-4fc82b5a-4923-4659-85ce-f4dc22028451.gif)
-  
-# Vizualization of search
-- Binary Search
-
-  ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/89273037/176278729-7e745a44-7198-426a-baae-640be46a62b1.gif)
- 
 # Soon
-- Soften the sorting sound
+- Will Improve UI
