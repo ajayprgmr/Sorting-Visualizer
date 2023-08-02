@@ -14,9 +14,10 @@ Sorts that are implemented:
   ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/89273037/176277738-ad0c9479-3560-4d1a-8cbb-d18aa3bb3194.gif)
 
 - Selection Sort
-
+  ![SelectionSort](https://github.com/ajayprgmr/Sorting-Visualizer/assets/86186444/88fa673e-f596-45cc-91db-7ea332d1e69f)
 
 - Bubble Sort
-  ![Bubble Sort](https://github.com/ajayprgmr/Sorting-Visualizer/assets/86186444/88fa673e-f596-45cc-91db-7ea332d1e69f)
+  ![Bubble Sort](https://github.com/ajayprgmr/Sorting-Visualizer/assets/86186444/d24d3316-07aa-4240-95cf-85cbd53728e7)
+
 # Soon
 - Will Improve UI Soon
